@@ -1,0 +1,14 @@
+pandas
+numpy
+pyarrow
+sqlalchemy
+psycopg2-binary
+requests
+python-dotenv
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+joblib
+scipy
+pytest
